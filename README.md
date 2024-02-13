@@ -1,7 +1,7 @@
 # Student Registration & Feedback System
 This repo comprises of two systems. Namely 
 
-1. Registeration System
+1. Registration System
 2. Feedback System 
 
 The forms take in the input from the user and Inserts the values into MySQL database with NodeJS.
