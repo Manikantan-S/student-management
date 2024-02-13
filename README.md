@@ -1,11 +1,11 @@
 # Student Registration & Feedback System
-This repo comprises of two systems. Namely 
+
+This repository comprises two distinct systems:
 
 1. Registration System
-2. Feedback System 
+2. Feedback System
 
-The forms take in the input from the user and Inserts the values into MySQL database with NodeJS.
-
+Together, they provide a comprehensive solution for managing student registrations and feedback.Input is taken from user and inserted mysql database using node js
 ## How to Install 
 
 1. Begin by cloning the repository.
