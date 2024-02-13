@@ -1,6 +1,6 @@
 # Student Registration & Feedback System
 
-This repository comprises two distinct systems:
+This repository encompasses the following systems:
 
 1. Registration System
 2. Feedback System
